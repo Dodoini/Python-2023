@@ -12,3 +12,7 @@ fav_pizza = {
     }
 name=True
 print(name)
+
+## Local Development
+
+## Open index.html in your browser.
